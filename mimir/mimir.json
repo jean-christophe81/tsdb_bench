@@ -1,0 +1,9 @@
+{
+    "database_type": "mimir",
+    "name": "centreon",
+    "host": "127.0.0.1",
+    "port": 9009,
+    "dbname": "",
+    "user": "bucket",
+    "password": ""
+}
